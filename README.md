@@ -37,7 +37,7 @@ I'll use this repo to study topics that I want to improve — especially to impr
 - [ ] Algorithms
 - [ ] Working with APIs
 
-## Best Practices
+## Best Practices - Programming
 
 - [ ] Clean Code
 - [ ] Refactoring
@@ -50,3 +50,8 @@ I'll use this repo to study topics that I want to improve — especially to impr
 - [ ] Clean Architecture
 - [ ] REST
 - [ ] GraphQL
+
+## StartSe
+
+- [ ] LEx
+- [ ] xBA
