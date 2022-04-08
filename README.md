@@ -37,6 +37,14 @@ I'll use this repo to study topics that I want to improve — especially to impr
 - [ ] Algorithms
 - [ ] Working with APIs
 
+## Back-end
+
+- [ ] Elixir
+
+## Mobile
+
+- [ ] Swift
+
 ## Best Practices - Programming
 
 - [ ] Clean Code
@@ -50,8 +58,3 @@ I'll use this repo to study topics that I want to improve — especially to impr
 - [ ] Clean Architecture
 - [ ] REST
 - [ ] GraphQL
-
-## StartSe
-
-- [ ] LEx
-- [ ] xBA
